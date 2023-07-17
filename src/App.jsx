@@ -43,7 +43,7 @@ function App() {
           onClick={getAdice}
         >
 					<img
-						src="/src/assets/images/icon-dice.svg"
+						src="/assets/images/icon-dice.svg"
 						alt="dice"
 						className="btn__img"
 					/>
